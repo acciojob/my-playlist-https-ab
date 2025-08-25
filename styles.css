@@ -50,3 +50,7 @@ h2 #mp3_songs {
 li {
 	margin: 5px 0;
 }
+
+a {
+	text-decoration: none;
+}
