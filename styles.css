@@ -1,1 +1,52 @@
 /*  your css code here. If applicable */
+h1 {
+	text-align: center;
+}
+
+ul, li {
+	list-style:none;
+	background-color: white;
+	padding-left: 7px;
+}
+
+#section_song {
+	border: 2px solid black;
+	background-color: white;
+	border-radius: 10px;
+}
+
+* {
+	background-color: rgb(204, 204, 204);
+}
+
+h2 {
+	text-align: center;
+}
+
+.player_one {
+	background-color: rgb(255, 255, 255);
+	margin: 20px auto;
+    width: fit-content;
+}
+
+.player_two {
+	background-color: rgb(255, 255, 255);
+	margin: 20px auto;
+    width: fit-content;
+}
+
+#section2 {
+	border: 2px solid black;
+	border-radius: 10px;
+	padding : 20px;
+	align-content: center;
+	background-color:white;
+}
+
+h2 #mp3_songs {
+	background-color:white;
+}
+
+li {
+	margin: 5px 0;
+}
